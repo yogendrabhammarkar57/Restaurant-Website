@@ -11,7 +11,7 @@ Welcome to the Restaurant Website project! This simple and elegant website is bu
 
 ## Demo
 
-Check out the live demo of the Restaurant Website [here](#insert-link-to-live-demo).
+Check out the live demo of the Restaurant Website [here](#[insert-link-to-live-demo](https://yogendrabhammarkar57.github.io/Restaurant-Website/)).
 
 ## Features
 
