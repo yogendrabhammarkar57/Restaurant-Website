@@ -8,10 +8,9 @@ Welcome to the Restaurant Website project! This simple and elegant website is bu
 - [Features](#features)
 - [Getting Started](#getting-started)
 
-
 ## Demo
 
-Check out the live demo of the Restaurant Website [here](#https://yogendrabhammarkar57.github.io/Restaurant-Website/).
+Check out the live demo of the Restaurant Website [here](https://yogendrabhammarkar57.github.io/Restaurant-Website/).
 
 ## Features
 
@@ -41,5 +40,6 @@ To get started with the Restaurant Website project, follow these steps:
 4. **Customize:**
    Modify the HTML and CSS files to customize the content, styling, and branding for your restaurant.
 
-
 ---
+
+Thank you for checking out the Restaurant Website project! If you have any questions or feedback, please don't hesitate to reach out. Enjoy building your restaurant's online presence!
